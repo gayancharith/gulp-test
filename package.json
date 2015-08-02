@@ -1,0 +1,16 @@
+{
+  "name": "gulp-test",
+  "version": "0.0.0",
+  "description": "test gulp automate tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Gayan Witharana",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-util": "~3.0.6",
+    "gulp-less": "~3.0.3"
+  }
+}
